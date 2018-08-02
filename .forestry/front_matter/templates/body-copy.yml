@@ -10,3 +10,9 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: blocks
+  template_types:
+  - media-feature
+  label: media
+  name: media
+  description: media
